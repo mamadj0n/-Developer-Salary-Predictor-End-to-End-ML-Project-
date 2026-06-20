@@ -1,7 +1,7 @@
 import joblib
 import pandas as pd
 import streamlit as st
-from app.uniit import *
+from unit import *
 
 st.set_page_config(page_title="Salary Predictor", page_icon="💰", layout="wide")
 
