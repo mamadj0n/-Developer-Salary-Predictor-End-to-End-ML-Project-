@@ -107,7 +107,7 @@ hr{
 
 
 # ۱. لود کردن مدل
-model = joblib.load("model_SALARY_v1.4.joblib")
+model = joblib.load("app/model_SALARY_v1.4.joblib")
 
 # ۲. Header
 st.markdown(
